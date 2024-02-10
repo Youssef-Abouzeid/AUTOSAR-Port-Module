@@ -13,13 +13,6 @@ The AUTOSAR Port module developed implements the AUTOSAR standard for managing a
 - **Configurability:** Allows customization through configuration parameters, tailoring the module to specific system requirements.
 - **Error Handling:** Includes mechanisms for reporting and handling errors, ensuring system robustness.
 
-**Additional Considerations:**
-
-- **Target Microcontrollers:** Specify the supported microcontroller types or families for clear identification.
-- **Functionality Depth:** Briefly mention the key functionalities provided by the module, like digital I/O, alternate functions, pin muxing, and port interrupts.
-- **Performance Optimization:** If implemented, highlight optimizations done to ensure efficient data transfer and low latency.
-- **Testing Coverage:** Indicate the level of testing conducted (unit, integration, system) to provide confidence in module reliability.
-
 **Overview:**
 
 This repository contains an AUTOSAR-compliant Port module that abstracts hardware access and offers a standardized API for efficient and portable I/O management in automotive applications.
